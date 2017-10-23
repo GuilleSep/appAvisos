@@ -26,7 +26,7 @@ project root. Any scripts you add to these directories will be executed before
 and after the commands corresponding to the directory name. Useful for
 integrating your own build systems or integrating with version control systems.
 
-__Remember__: Make your scripts executable.
+__Remember__: Make your scripts executable. // recuerda: hacer tu script ejecutable.
 
 ## Hook Directories
 The following subdirectories will be used for hooks:
